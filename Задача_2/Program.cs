@@ -18,6 +18,6 @@ else if(firstNumber > secondNumber)
 }
 else
 {
-    Console.WriteLine("Значения равны");
+    Console.WriteLine("Значения равны!");
 }
 
